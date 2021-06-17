@@ -1,6 +1,6 @@
-﻿#Basic-tetris
+#Basic-tetris
  
- This is a simple no nonsense version of Tetris.
+This is a simple no nonsense version of Tetris.
  
  **https://kateshukhto.github.io/basic-tetris/*
 
@@ -10,7 +10,6 @@
 - JavaScript
 - Git
 - GitHub
-
 
 ###This game uses the following inbuilt JavaScript methods:
 - addEventListener()
