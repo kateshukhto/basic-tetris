@@ -1,17 +1,17 @@
-#Basic-tetris
+# Basic-tetris
  
 This is a simple no nonsense version of Tetris.
  
  **https://kateshukhto.github.io/basic-tetris/*
 
-##Technologies Used
+## Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 - Git
 - GitHub
 
-###This game uses the following inbuilt JavaScript methods:
+### This game uses the following inbuilt JavaScript methods:
 - addEventListener()
 - querySelector()
 - querySelectorAll()
