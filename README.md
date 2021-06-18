@@ -2,7 +2,7 @@
  
 This is a simple no nonsense version of Tetris.
  
- **https://kateshukhto.github.io/basic-tetris/*
+ **https://kateshukhto.github.io/basic-tetris/**
 
 ## Technologies Used
 - HTML5
