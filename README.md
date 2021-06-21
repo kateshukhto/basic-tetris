@@ -1,6 +1,6 @@
 # Basic-tetris
  
-This is a simple no nonsense version of Tetris.
+This is a simple version of Tetris. Based on the classic Tetris game.
  
  **https://kateshukhto.github.io/basic-tetris/**
 
